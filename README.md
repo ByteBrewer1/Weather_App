@@ -13,8 +13,6 @@ This is a simple javascript project made with the help of HTML, CSS and OpenWeat
 ![Screenshot (20)](https://user-images.githubusercontent.com/90332218/194750372-b524eec3-5ef9-4f0c-b82b-770ec8850fc1.png)
 
 
-# check out live 
-Web Url: https://avinash201199.github.io/weather-app/
 
 You can contribute in this project by adding some new features or anything in your mind to contribute <br>
 [Check for getting started](#)
